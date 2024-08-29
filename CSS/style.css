@@ -1,8 +1,8 @@
 .header {
-    background-image: url(moto4.png);
-    image-resolution: 1920px;
+    background-image: url(moto5.jpg);
+    background-position: center;
     color: white;
-    padding: 20px;
+    padding: 60px;
     text-align: center;
   }
   .topnav {
